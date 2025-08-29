@@ -1,4 +1,4 @@
-# Twittr (Python)
+# Twttr (Python)
 
 Removes vowels from user input, producing a shortened text effect.
 
